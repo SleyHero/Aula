@@ -1,0 +1,5 @@
+int i;
+string a;
+
+system.out.println("Digite seu Loguin");
+scan=a.
